@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Casey",
+  "age": 29,
+  "address": {
+    "street": "Jurci Circle",
+    "city": "Etrenu",
+    "state": "NE",
+    "zip": "32480"
+  },
+  "contact": {
+    "phone": "(624) 632-4992",
+    "servicePhone": "800128156"
+  },
+  "birthday": "1990-09-02T03:38:18.501Z",
+  "ip": "230.162.143.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Nagsesap pocamfu di jefufji gowrul hijfur nabbufe keb za ani gol sekcek rurisno rol sobemha piujapo maku azecnej. Jej la icuburzeg unapali sukra ubiva mas riwbiw urapaon ijehiez waiz wa hi tedu rof. Von littesa feb ewikaw idzes ho vihim omvevfi bo cezi waco lizrojliv nintena fad wislus afureg hasoote.",
+    "bio": "Seasumi ci ri ija cosi nuda bum zaolofic fanaj tihku kufpawfo duzehfu izrapgez joz oj. Objoge lok tinzal na ti biz ehe nirul ecooz sozag libam ken rooz. Tunof ekjictu cubvovsop da om ali wokpe laflolaji la feg wofiabo sasmaubo kesi. Dom vugcig dow lozci pofmoj zo nin kossileme lo bah ti tucrenij ipaletur."
+  },
+  "apiKey": "dd4d7d5ff848b2526ffc4c40fab793182b1177dad4d8f93d7298ec363a73ad42",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
