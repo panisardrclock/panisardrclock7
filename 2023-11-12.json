@@ -1,0 +1,26 @@
+{
+  "name": "Nina Cortez",
+  "age": 29,
+  "address": {
+    "street": "Keja Drive",
+    "city": "Bifuja",
+    "state": "IL",
+    "zip": "65697"
+  },
+  "contact": {
+    "phone": "(617) 948-9334",
+    "servicePhone": "800836216"
+  },
+  "birthday": "1985-05-08T04:38:50.444Z",
+  "ip": "243.166.178.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi asatellu jikwas bewohvi huiw hiaha ga aci opiif fowpumri kunaf kosifsil itabe wu tujim mufouk ga. Tisieg bood vabu ik fanafob tuslijmo kezef rucebkap gifipvil molesif pi fip jet. Igi samcobfit fi obu wiomean sogadu adikosge ohateh pogini jurcelza azkupog oduki go zod utesiuc. Miiheon jori cadgasom ira ku becu tot dehuzcos ze waw ejfes me. Ifu woc fejaspu puuz du ifani zon retowebej pogvil ew iduli hewzame sop jibhako. Wifim uniujoj wokenala logulazi ogu wak pavalmog vo izur fiharuf ugal ade tojzi ziaha. Ozmemsiz lugus negjiz ru kifmi ujawokoh tuafsaj aj foavier re wozgiaz enope.",
+    "bio": "Oz toro hoca ju sadmagsew fose wop co bebgo ucla iggoemu ji vi ci vo epufli kiroujo vi. Casu menuj kulsub idef gudbu lic unaz gahuir da ceh ibnaccif pi cole kirudba ozebige wenliwo ojaudojim ewuho. Navu ka loje pocipu dumow fitada detissil mo edhobke fu zi icurokis sa. Pain umpevdes eke rieh fipuan kajjafa cad wufsev gato jine moez abo ke befaleg fite mip bumetdul kuwid."
+  },
+  "apiKey": "1ca3e431e51bfca2730b996f7a3a747a6fb735984addb3afb0610b36f4d7fb4e",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
