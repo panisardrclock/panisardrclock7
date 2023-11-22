@@ -1,0 +1,26 @@
+{
+  "name": "Julian Barnes",
+  "age": 36,
+  "address": {
+    "street": "Rehnen Turnpike",
+    "city": "Hupnopo",
+    "state": "ND",
+    "zip": "24284"
+  },
+  "contact": {
+    "phone": "(226) 847-5786",
+    "servicePhone": "800836939"
+  },
+  "birthday": "1983-01-12T02:07:02.128Z",
+  "ip": "14.56.166.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Finpiba sub lihfah fus la semagi josahuz ifekap zic juj wu siza ojo ir tos. Se dojulubu rugkukef neetimo bun dunnohu vase bi zu gipdoj gopridzo dan hu. Lato bud cuklob rif ra cipazkuc tefgac ka top za pub sabnebpel.",
+    "bio": "Egatu lon ta fuhem ro rulhekhen raf be su fu oruabucap jif lafuf izeni ha muc ki ok. Sak fecme ri he ozieg roki acomsun coruz seb pemu ulegwe uki hanes fahulese coajacow losivme. Suw deocegu bej ohurep tehiv gepdaruvi etpam dituleko asi zisura gecwi tarrul ijirihra pi gilaleb guv iw nufzeetu."
+  },
+  "apiKey": "71fd12a027a21ff8851f3227fdaa650bd1d581f0258fa6b2a9461c94a85ee319",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
