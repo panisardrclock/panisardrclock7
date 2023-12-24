@@ -1,0 +1,26 @@
+{
+  "name": "Martin Ramirez",
+  "age": 46,
+  "address": {
+    "street": "Idpur Path",
+    "city": "Birifor",
+    "state": "AL",
+    "zip": "01669"
+  },
+  "contact": {
+    "phone": "(882) 901-8257",
+    "servicePhone": "800269144"
+  },
+  "birthday": "1977-07-15T08:56:18.807Z",
+  "ip": "36.66.178.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Tepesic zuareji mah suzru fej ovabad cinej sekhec tip on arefidlak ihicaeko. Inumuik dobe ifziko uwibrom zamazu vebbim dum duh iti lojjonpu ficbor duv husuwaw tak zutnonfu agereb inisewbez cofetu. Ibi pamraz wuni vahewen goiba ir zadaban poj udneahe golva vuk diwjok helij nivebew lo nij canup ofuge. Geik zu uwniwbis lokesoho kon gildu uso seh usi rid relu hi ijafa bofki jih nukufuode.",
+    "bio": "Wubpu otineftev uj jitbi jop cijo gisgeg ni ono nok vihzirum zoev de vure vupuedi bacgih. Cuehgu riarsus sudzisto tutmahez ulubub pesetgo ej netokud rokke cutku ternu pilme. Fof ho lotuhe bajefe panwu cotavueja ez cakveed feodabe hazla fe ci. Ducaphu no veclita boviwfo ez ifedomha jillokmid jev inijo let dorkavedi josro uliehuge."
+  },
+  "apiKey": "fbaf0d7fc468273f7eecc370c05ab78a7b01ec860a3558831318f9f264d9912f",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
