@@ -1,0 +1,26 @@
+{
+  "name": "Rose Cain",
+  "age": 56,
+  "address": {
+    "street": "Nizebo Parkway",
+    "city": "Tawedga",
+    "state": "VT",
+    "zip": "63447"
+  },
+  "contact": {
+    "phone": "(880) 549-9682",
+    "servicePhone": "800558595"
+  },
+  "birthday": "2001-12-28T01:41:55.888Z",
+  "ip": "233.211.71.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohe sa gonko ejujo lahobmo sebbe ug lal ka tap ec wiol siwojgu jewa zakof zikva ug se. Fi vo siw aji pop duppa udo mafawe tunhub rugoku fanfukhi hureud se baeg je mutracew fefco. Bedza socow pop ut zeskagpo ev dacif cipef ogarumiw ze sagnuzhi pokzubwo nis ohnerpin becom ru tihas viwaz. Wunac mu ofa uve da zobfab zisgibo biazefe ohusemze otisa gal zinejcof huvsul. We fat jeolaca ofarime hujvifob jovzim afefelca we rojdef lep fusgehrum igetim beke sim epjuzeg. Ku wakba uparemo siloce weku vofzinvo wa dul es ebvuddop liami pephi la wena la gahmovgis.",
+    "bio": "Dauw bik fazhoki fav wa abi ge fik vinihuso iw ni je. Fow giljuih orwubnuh ca sililizap aro em go moplooc bawjomo vec vimorlal luhudib gumug ihmi duzot bis nepruw. Gul cohhiuf pa oba be cefeweite ipren fokwe fur cinala dupu hupuchep iw wokav koeg uhso rotpiaru."
+  },
+  "apiKey": "03425ca8d304b7c3c04ac4a6fe571e621159df324c59748757ab4b64a2cf0d24",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
