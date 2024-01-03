@@ -1,0 +1,26 @@
+{
+  "name": "Lida Pierce",
+  "age": 23,
+  "address": {
+    "street": "Hozdu Path",
+    "city": "Ubigocsa",
+    "state": "IL",
+    "zip": "93627"
+  },
+  "contact": {
+    "phone": "(289) 420-1470",
+    "servicePhone": "800384789"
+  },
+  "birthday": "1960-01-19T00:32:57.764Z",
+  "ip": "69.45.160.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Huzzad ziokfem tornoto veproez wi uw subcedego sah ha kuop puhsuwuv jim ma wo bujerdij je. Homzut zol eli tog serpog kivo cob uvrez wuh cevuzaj tur lik owwiwki. Por ujfoel roecujaj umehas wukobi puzho kaf edaelu zega cu geb no. Tunupza albekcuk pibeh ca wa wiigiko taj jowo be jom pa ah fahava.",
+    "bio": "Ub fele liol fojzi kilobu muame ono pazuc boceake ba jamur du bagwi an. Di igroge ufse redmocbo olsa jirla jilfoz vus hef favudi sapjor bo sutofkas du ki fuvub dejduh. Mopmik mumsulij ice orne upzedjej dof caja ho ernebi ufueko guros vazma kuura ot."
+  },
+  "apiKey": "cc036b253f0142b5cb57ca074d3b8ecd07088e71a51dbf7c951bd88136ae65b3",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
