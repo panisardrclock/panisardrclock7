@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Schultz",
+  "age": 33,
+  "address": {
+    "street": "Latat Lane",
+    "city": "Losebbog",
+    "state": "HI",
+    "zip": "29012"
+  },
+  "contact": {
+    "phone": "(443) 698-6967",
+    "servicePhone": "800117143"
+  },
+  "birthday": "2003-01-14T00:20:56.598Z",
+  "ip": "62.92.7.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Zofus gomokfab fuwpa vunhi jersa mij apu denetetu hiozpa garvom kicavmob kebotid oz widfigih jocgem. Nitecit hulrihif etigebik ki sacjiumu jitwe ju wuhaf adofedosu lesjem rocoga madepan. Mizerac puz wip vaelwit vijjuv cihodehel ve go lu bosce elkozmi omuas wewuldas socme cag wuz jo.",
+    "bio": "Dipir wapuzo fafrered zo molob obi ju oriruneho cuc ewudu ra kozganem ci. Sirabare vonli tov movab te zaregfa ovben ito joubsab ilemi wisaud iko geb peuvo japir lapij fot. Ubjegojo te ri nabor bihcobo micev si juvpo etmos pab pifu lultor fewa nunik za nimeh micma."
+  },
+  "apiKey": "7458ecd687b39b782e1fe23d21eb873aacfaff3467243a20b0c1d89659c8f01a",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
