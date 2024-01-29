@@ -1,0 +1,26 @@
+{
+  "name": "Nora Burgess",
+  "age": 40,
+  "address": {
+    "street": "Tetfi Highway",
+    "city": "Gedefed",
+    "state": "WI",
+    "zip": "89398"
+  },
+  "contact": {
+    "phone": "(571) 828-1387",
+    "servicePhone": "800476152"
+  },
+  "birthday": "1969-11-20T03:02:05.066Z",
+  "ip": "226.189.218.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Lib jep kanagi kasze suzo pul itonez dud lirjiku wete jodir zejuladuk napoval lipej evoduuro rifusi. Rob huucofu goazca jamel mozieme zuusavit ori vu fif vil lat omuruvu tohohej tinruwta mowper za. Zekpe tigaamu cafvojaf waltis ga sen pig lapiwug girakub kitmabu vu mebug ge eftuvu isbe gilipa uci omu.",
+    "bio": "Balode cude ivpu luaku jed dosnovmuc baru ur zudzuev pavicujo apdobru borse zonka ronno. Pilho udasuhusi neh pigfipiju sudkaeg laozmo poc jabwop vivigpe ma mazahevo okni. Ane ciit nejnuv jomugba dukuri jamevir bunukij ovulizrah hob mipa visik ge faro mowbafofa hah ke fezuad op. Ijotar ic ajema dev guco ito mibaf raz milid fosrorlec abeunipa danep enuguv boova. Hidunuza niz ne su za tihmuci bugfuz seb usa taza ruruvme zafaw soburbaz. Tijuh rezag danednik udiaw wivluog deroz ori sofhur louki huvracal umojocfo ziisa hibbimsu rev puhzuwi vahittot. Sis ga to herincer be pih galgeasu donom ra ovbojoz rihkemuj wipob pesena duf na wohmosu."
+  },
+  "apiKey": "df847fa763c8da71358d7c11e9511b71df7c32421edffe09c75a673a847d9e75",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
