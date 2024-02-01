@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Patterson",
+  "age": 39,
+  "address": {
+    "street": "Efhe Street",
+    "city": "Adedohkem",
+    "state": "NE",
+    "zip": "94542"
+  },
+  "contact": {
+    "phone": "(923) 712-6188",
+    "servicePhone": "800133282"
+  },
+  "birthday": "1986-07-16T01:26:11.617Z",
+  "ip": "166.138.215.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci zofotad begdav po folkotzo ate womvuj covoka ap rozlanef muzpog jeam. Wifkop ama badwom wakarsin si egivew dasabdut mimno wu zat cor nisgom ivtipla vitavruz cak poloz git. Teezaruw ho rej tehi datci sihuhmaz enietepa pazishof amiwipji imcaczi fazikida bi jezaf dul kahwa gawturta ewbu.",
+    "bio": "Je maw gi jeraz ju uri codofjok zicuped koifi vo to neewi. Go bocaij sepago meffulu ca te nuzihogu ivi metrihu zafi fevihza curakuf nulu ujbuhtep bi reat. Led kelapeir ajtibav hicokup en igu borfenla bi ilawusju nolomvu lewom hut ujo ni. Ukiutfet dowiv muut wiegnag katbeplel ase mevre cowip ma to ga ludzi ubekisti munaet jit ara temelbu sur. Sir jog degetinuj safturka bozudejar guwirig goonwuh azfuc fuwges feekutuv sidivfo ze sugneus rofor musiaz vaf doohleh. Gumimse va sozahe ku tumo iwzoiti fafugo zacuh cu cel rugaca ibi uzono wektaktu. Ta gik joobahi relzit muvaha bodtogo firoz oznilnaw werjeab icecac arhibgor vis nesohmu etinimro ce."
+  },
+  "apiKey": "a4a83b371836ef34dc8bac3fc766f4301219dd7d2c1c1d63568af1f989885d9e",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
