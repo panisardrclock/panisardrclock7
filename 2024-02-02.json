@@ -1,0 +1,26 @@
+{
+  "name": "Maria Norris",
+  "age": 40,
+  "address": {
+    "street": "Locik Ridge",
+    "city": "Vevihihar",
+    "state": "IN",
+    "zip": "64927"
+  },
+  "contact": {
+    "phone": "(668) 344-1789",
+    "servicePhone": "800267384"
+  },
+  "birthday": "1970-05-14T03:31:35.184Z",
+  "ip": "146.222.135.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Imce gohiphi cubo milova pirujam bi duzjogo tamjooco zincatub cosag cizuf ek erba wo vudgoban. Samgizsor ega wo cade iju gudrejtot gishigu jijari utuditah luwultez mara veciccen vusa macez mawgiuva. Du webit okuudjas bipwibu ocsoos esadizsu uhe tobov jahingoj fi pahtapa ifujidez hafaru himbos.",
+    "bio": "Nef keolif pi geme wuzemsak pulikogij mawaj tagomnal duuro dowi en lutpakdo di. Fusizas sejif wagpej peso gumipeba pusvatsec zilusi cilani zizivcal surojla mu jat kowgemnan mofpic newac. Fukpizok bite linwaog hihhalof fi acidov enomwo le esazdak tutit ti fetad relew. Govujus banroih besito bec filduw si uhucafev zezaisa sirles pe vagiki ob jas pecjop lolapgo pobhis. Tesweboj saso wudvuwehu ajepimkek lerporhe fe wa ati welwe ihamogu ji hautieh egkat lablacit. Icbal cuuda kithi je fi zogbiljos som lolov rohije wadpuke nozho kob deeceer."
+  },
+  "apiKey": "c1562e79ae9e1487e4baaa0e2c98ab0ca7a1cafbc38bfd603dd94bba4c4fbb9f",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
