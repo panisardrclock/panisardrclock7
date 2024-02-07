@@ -1,0 +1,26 @@
+{
+  "name": "Lucille Rhodes",
+  "age": 33,
+  "address": {
+    "street": "Inaeha Extension",
+    "city": "Mewawug",
+    "state": "KY",
+    "zip": "01550"
+  },
+  "contact": {
+    "phone": "(313) 487-5060",
+    "servicePhone": "800742854"
+  },
+  "birthday": "1961-12-05T07:48:51.228Z",
+  "ip": "19.111.228.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Weaje piko songe la gozaf cipci ni gonnufo kip osi aji sudjabuk zej vovcit lapreh ga alhe. Werah ow asu ati sutdobiv hi kake wupnavvo ma cecor minjauzi ik oh afa. Tamlo zu tu lo ricener rivem pawpe owdan uz orbe mib loga mu tadulhaw ubcunrap mujip kejoas bulibuf.",
+    "bio": "Ravles fufepu eboos sanotad mod modmat hatvit mu fum tijacibo poj tinjo ker ewopoej wako molwozfol egete to. Bujuag paegi mube awi dorsajaj ka kedi pusij ecnehgu co jikow lub. Je pas jafnajuf feani betod hok rabla odu keumehew fecabip ocefarit afureiga jadpac wovhojem suj vir nu carniz."
+  },
+  "apiKey": "5eac5af2c89617ac7dc3b71d234a778035847f4589b80379f31852f38385ca78",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
