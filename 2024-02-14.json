@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Harvey",
+  "age": 55,
+  "address": {
+    "street": "Pefsi Parkway",
+    "city": "Ujuhoba",
+    "state": "MT",
+    "zip": "15344"
+  },
+  "contact": {
+    "phone": "(719) 270-9754",
+    "servicePhone": "800689865"
+  },
+  "birthday": "1982-02-05T16:44:56.021Z",
+  "ip": "56.246.188.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Dok tifugagu oviro rah wawog soha dacro nitaljog erabdu temgicu pa fu eme. Tot vi nafaok ti buf loz elo sa ehwe inogo sabbaiv tig vemucik bo imutho gowhazsi gab endieva. Murlovac wav bed ulmitto novum ki nudruife isadmo fepgiljic nuhefmo orcepso feso oliez medos. Opdalam efece veig ivikufuf mineg jo wuhzole ago fekugo edecijij nubali desuta pez ce.",
+    "bio": "Siadvos jale gifu zo lidgihdo zegjucoj ev apo bemkesfen uwkobri koplenti garwi lisikede je. Zaj utcu tocde kike hi zucirsur ipi se nasa al rukeuw tac ka ewva. Ejiimiih apbiz fazgaroha celijaf losfec em migten mop keikiiz si up feudmob vibbi pawam tavowam umkelo nifwo duku."
+  },
+  "apiKey": "6976f2520fbf1440df41173b15a07e49836f94fa86b65b73e8942831a5ca3bfb",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
