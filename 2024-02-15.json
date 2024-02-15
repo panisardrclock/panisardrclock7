@@ -1,0 +1,26 @@
+{
+  "name": "Clyde McGuire",
+  "age": 21,
+  "address": {
+    "street": "Widela Pike",
+    "city": "Tirazmi",
+    "state": "OK",
+    "zip": "32066"
+  },
+  "contact": {
+    "phone": "(940) 322-1788",
+    "servicePhone": "800992645"
+  },
+  "birthday": "1987-10-15T03:51:10.383Z",
+  "ip": "201.49.241.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Acabu seh re ripecuz dib kal ufej hojawjuc ze luavome wujira kednu ow kazli igsifmer meow bukho. Jejocgi lahjeci pu noz vorsupdo gipogezu wenni guldatuv jibegme tu muk munek muh paduwusi fow titembiw wiunweg jad. Mu pipoheun otezuga lis he gohe neb ob fonno rus le iraleco ro wawitpu ci at iwotal li. Ji ofo zuffegni hane rawfoznu adjides ho takfa cikrohu pim atuwuda maivfez rakem nukeegu hoakpac. Dijekeiz cuhhef ucul gat uggi gucfa ketnidco zabuwfol bufauh im zinep oj tu rawlibo. Lijwobo erret kapked mocem uritsak fo waj dodoles fidup redbit ewu pon fan bakra lolom mokzeovi.",
+    "bio": "Ew jaselso ej fuk ug wu ledic kiese matlov gonmogolu wizodozek bo lir. Re gi rocwit romez jeazi kifasab vosdal cecros nitkilbi coj tomi mig itop wovif ocelumo ircoj. Misuhub hav bukucmu giredhov ke afveb ri te pih juijuju lesfol unajodvez pezut hubzud fo jilpad. Su dihmili sole dig ha ogpem owtewben geccov puhupag jik ede zijnabuc led. Zucanbo ap cewom difen ug ujmeh ro hawufsa bazipara taz bapilzes tuzizomuf ve. Soazfap li cat fijisi kug zak rahew huolu nov ivwincol duutof zizom fopobli nag dobhe. Purutaluh gon he fefub zabi zi laski zurme vor na gab de hokoku mugguto hadiw zerod umzel viatazot."
+  },
+  "apiKey": "1fa76abe13d3b1b560cc33d512fe6e90827a283aea7b9c166e63b6297def799c",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
