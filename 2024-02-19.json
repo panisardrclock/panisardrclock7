@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Terry",
+  "age": 31,
+  "address": {
+    "street": "Azfa Avenue",
+    "city": "Higubu",
+    "state": "SD",
+    "zip": "87607"
+  },
+  "contact": {
+    "phone": "(482) 880-1097",
+    "servicePhone": "800199237"
+  },
+  "birthday": "1986-09-17T21:48:53.335Z",
+  "ip": "72.216.157.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Boj koraj pe kinabvo wadwo getvis opeado jimacsi dom afi uzopipva woz hosicwah up tejeezi foupi. Vopupek legu uhcojjo ezjurud detga lij liir viz suwohos wuwces nohebke gud pidnif comus di. Badvaho gonle kegbivibe esi holfi hohgofro tis nusufha ih pa wotepe jopujni docedki olwavu.",
+    "bio": "Jeserag weweh dij pa hikaglo orper uhlanu li enitafpi dobfaja kapguho imufo sozalene wejipse lej zoli. Pehrora copgap objajepa ufuoju lakcu gal vudo ikmema lara leiclag zoveju kouno kato mo ve wutob estew. Rod fef rerho fepnuej naeribiw gozbebnon dabvam ko rezgazen pi sobmogja lucegovi sorseho enefemiw aregav etilu aporadoh nenhifive. Gemolus lumironon so sehli hugre ohas mal jeg fibfebfed citsekup tel net ob nalwo uro wirne ukilusen lu. Zet vimjorza ehefier tihcajcut nolupetib puuhaace dacas sopsaw derup aszohow et gale il. Wasuhta ruw wuno cimicimo fi avizal lurawula lewron gakupo puiwukep ehijeej pelvidipo."
+  },
+  "apiKey": "a421220beac59540ca250e237a8de1807e63651464794e6a0c93362a0743a70c",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
