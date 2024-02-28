@@ -1,0 +1,26 @@
+{
+  "name": "Sam Yates",
+  "age": 21,
+  "address": {
+    "street": "Pumso Way",
+    "city": "Fafektes",
+    "state": "NY",
+    "zip": "87484"
+  },
+  "contact": {
+    "phone": "(663) 528-7041",
+    "servicePhone": "800877658"
+  },
+  "birthday": "2001-04-29T13:02:44.858Z",
+  "ip": "163.73.119.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Le ujwuc luf guhid wip to mihe cahi kituwo ri teiha azehu som afi zuzdotma cepi haci. Hajiju gu jodba nofowdi wecu wow kudijok ki so tarpe fif miw vifaj. Nehkempa apelu wabgode culzojpa foj zibi fabnelzoh fiemima halwu gaf suwap tocwo bozem gapru nowatri ozidobi. Eg zi tu dekhuzeda lemi lo beogeke ba di aludauje fo mempikjik.",
+    "bio": "Patvecpuw uwaduhvu sumawe ezedit fi gejih sakut wimobluf mu lahsaet roja ba cadkorgu ohaalu jekwiate zassu repu entazusa. Jo mapebe weil okne of himorok gefi iketivolu wulguc nipoiku fek gerilib eh ju. Tacofa ze jut ocakde dille buiw sohtuwi coumpu bida timcav ucovas kohsu jo dug ci. Sohoriv ehfehado nion hihsen sufo oreduh ic mi miagel kizo za du zuh etufoki. Os litnu kec tu bano hulavopa nofvilnu gus mopupkiz figojfo lel torzeebo ze fecabuba. We tir hiulored nacih ruvsekti jacail bac tu awu pipso nek curimag acigitzur. Tarho fihwasbow toep vuzhip cuv li nugejapu duj pofgo ul gadgo hebik atvez uwoiwu zaosi jel upipabfu pusripme."
+  },
+  "apiKey": "7835e1e9436c4c09f3e2354b4b0f6ef43f110339b74b45b5efdf58d5314cdcb1",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
