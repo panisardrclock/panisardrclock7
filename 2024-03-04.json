@@ -1,0 +1,26 @@
+{
+  "name": "Annie Thornton",
+  "age": 61,
+  "address": {
+    "street": "Waco Pike",
+    "city": "Takenap",
+    "state": "CT",
+    "zip": "30985"
+  },
+  "contact": {
+    "phone": "(929) 372-5992",
+    "servicePhone": "800557842"
+  },
+  "birthday": "1980-03-23T20:12:21.406Z",
+  "ip": "218.242.201.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Idi hig miv beefmi cih gucawud acug coviora nesfout bopul na zajiwdob romgo fo anzulfaj co dan. Sud sa us jawidus lirfoc jorze cifil kiwob jev ledral fopme johisto. Wekgal ligej kumu vasog hiwja op ejwad hofdeer gu eka fe isurune.",
+    "bio": "Aro wumkobe tiop verug jo goloveja cunuli sakofi retah gegfepma niiti reditjal nukepa pekle vavgiklu. Cit pudsenrev vodi ildum teho kuk me car ac mus diuci normaom sej fojajomo da. Fupeke woro fonip izaotoga caseres nilavar tikwokru ke ti zitgun olu bo fo zufcumduc nazse."
+  },
+  "apiKey": "45ee38c7853640d9423b11123cdd8985db3f0187e739bfc839cb18ff2d0ebabb",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
