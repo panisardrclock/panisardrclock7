@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Berry",
+  "age": 26,
+  "address": {
+    "street": "Lejij Path",
+    "city": "Baznokab",
+    "state": "ND",
+    "zip": "96358"
+  },
+  "contact": {
+    "phone": "(245) 834-5774",
+    "servicePhone": "800755162"
+  },
+  "birthday": "1990-05-30T20:03:09.385Z",
+  "ip": "59.96.224.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa su zufep ne rub uh he talosuni zioc zulvob piw enurugo arisah naamva. Reupo icicikuse haava cesafna wi ekvi zulo jupuk wuzuz obiil daswoku uni mij ba ihaude. Upvuthu log fujbe vobaw waz eneratab dez ulu ceh togut givha osovoz gu jekda.",
+    "bio": "Ma tefro ifbaosu avu worizzo jot si rauzo imugobno tusge gesu si jagmi. Go leditup rieja ci kengikve gi rukkafan mughet ud gaw anmaszum ug eh lipajvi hucotkul wudoku wahummu tez. Lonavvo rakibo muw vo vibta jeb sanurlo ekhusef guteb tucsillan doiw gukivob pefwir imgak uggatgu juwegu hepup kaoja. Fowi bagemo pivniv rubo wimucle wivoj abhi jaafo jak der towikeos beihacew irgis togiza ete sieho puksuk. Cuudojih som gaeji haeso hoejeej eru befzoeho et minon zapfukruw zihwoc kaj rem. Ebu howig ira pub nowidugoz sovapah vup os keku pij otmihcij pij namuh go cew hovepmel ge. Lubozfiz fodwe ijfukla fareso kato cako caihilo jukked cemid vewcefgag hewuto eblidu."
+  },
+  "apiKey": "678df0dd37a1a51b08871ca6ff519f977322eb72e68fa2887382f36b07e3df6a",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
